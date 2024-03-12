@@ -1,0 +1,18 @@
+---
+title: ""
+author: ""
+format:    
+    revealjs:
+        incremental: true
+        slide-level: 0
+        self-contained: false
+        width: 1920
+        height: 1200
+        chalkboard: 
+            buttons: false
+execute: 
+  message: false
+  warning: false
+  echo: true
+  eval: true
+---

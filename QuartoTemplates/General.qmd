@@ -1,0 +1,21 @@
+---
+title: ""
+author: ""
+format: 
+    html:
+        code-fold: false
+        code-tools: false
+        toc: true
+        toc-location: left
+        toc-depth: 6
+        code-overflow: wrap
+        code-copy: hover
+        self-contained: true
+editor_options: 
+  chunk_output_type: console
+execute: 
+  message: false
+  warning: false
+  echo: true
+  eval: true
+---
