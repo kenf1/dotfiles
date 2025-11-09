@@ -12,7 +12,6 @@ in
       mru-spaces = false;
       persistent-apps = [
         "/Applications/Nix Apps/Firefox.app"
-        "/Applications/Nix Apps/Brave Browser.app"
         "/Applications/Nix Apps/LocalSend.app"
         "/Applications/ExifCleaner.app"
         "/Applications/GitHub Desktop.app"

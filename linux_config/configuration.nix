@@ -23,6 +23,7 @@
     wget
 
     git
+    gh
     nvim
     vscodium
   ];

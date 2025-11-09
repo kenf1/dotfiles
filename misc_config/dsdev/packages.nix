@@ -7,7 +7,7 @@
 
 {
   environment.systemPackages = with pkgs; [
-    python313Full
+    python314Full
     R
 
     quartoMinimal
